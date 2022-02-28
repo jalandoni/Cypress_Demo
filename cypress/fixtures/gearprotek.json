@@ -1,0 +1,30 @@
+{   
+    "email": "qa@dnamicro.com",
+    "password": "DNAR0cks!!",
+    "language":"English",
+    "country":"Canada",
+    "registeredEmail":"steve.edmon_17@mailinator.com",
+    "regesteredPass":"DNAR0cks!!",
+    "first_name":"Edmon",
+    "last_name":"Steve",
+    "phone":"8888888888",
+    "barcode":"88888",
+    "address": {
+        "street": "39th Street District",
+        "city": "ON",
+        "unit": "872",
+        "country":"Canada",
+        "postal": "66115"
+    },
+    "deviceDetails":{
+        "device":"ACCENT Pearl A4",
+        "ime":434343434343
+    },
+    "receiptDetails":{
+        "rnumber":11,
+        "store":"new Ontario store",
+        "branch":"Ontario",
+        "date":"31"
+    }
+    
+}
